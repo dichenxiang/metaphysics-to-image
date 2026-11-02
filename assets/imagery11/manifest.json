@@ -1,0 +1,113 @@
+{
+  "scope": "I01–I11 来自Desktop/11；U01为用户另附配对。截图中的可见标题只作为上下文线索。",
+  "items": [
+    {
+      "id": "I01",
+      "file": "1793460707685.png",
+      "source": "user-provided reference image",
+      "sha256": "38e94786f72f5cbb1e9c81d49b5c36228a8d1e7040f25c9cc4bbc61b5141769b",
+      "observation": "黑白灰；偏右弧形拖擦和大片黑场；宽灰与窄白交织，物形和深度难以完全确定。",
+      "relation": "无清晰主体；弧带作为聚合与消散同时发生的场。",
+      "text_evidence": "独立参考图，无本次文件内原句。"
+    },
+    {
+      "id": "I02",
+      "file": "1793461857159.png",
+      "source": "user-provided reference image",
+      "sha256": "3ac86477473df1f266b94549e0f5536cd48fe541cb9b383b931a4ec08fc42ac1",
+      "observation": "黑底金黄；高密度线条直接构成持剑人形，长线围绕又向外延展；细线、厚笔与黑色间隙并存。",
+      "relation": "人物与受力线同源；剑的斜向和周围横向弧线相互制衡。",
+      "text_evidence": "用户先前明确配对“我见观音观自在，我见真武见真我”；画面人物真实身份不可确定。"
+    },
+    {
+      "id": "I03",
+      "file": "1793461874111.png",
+      "source": "user-provided reference image",
+      "sha256": "ab68b4a62c9a3747d2ae4fee71bc54112b73516c50cdae434dad798bc34e483a",
+      "observation": "黑白强对比；白色团块、细线、星状亮点密集交织；中部较小人形处于繁复的空间。",
+      "relation": "局部主体与多尺度密场相互包围；多中心而非单一透视。",
+      "text_evidence": "独立参考图，无本次文件内原句。"
+    },
+    {
+      "id": "I04",
+      "file": "1793461893604.png",
+      "source": "user-provided reference image",
+      "sha256": "2d7b99cde9b65dd62fe42eb801d8e3657ff2593c305f634bea1a9e20a4c4cb1c",
+      "observation": "近黑背景，蓝紫人形居中偏下，体内点线与周围细线相连，下部有横向反射状痕迹。",
+      "relation": "近静的形体与暗场中的细密活动并存；可辨轮廓与溶入背景的边缘共存。",
+      "text_evidence": "独立参考图，无本次文件内原句。"
+    },
+    {
+      "id": "I05",
+      "file": "Screenshot_20261102_122218.jpg",
+      "source": "user-provided reference image",
+      "sha256": "c3690f79b240457f73cab56617732deada61d6205dda9a4bbec085e41d5fa452",
+      "observation": "中央偏小金色人形，极长细线向四周放射，中心密亮、外部细暗。",
+      "relation": "主体既是线的汇聚处，也是力场发生处；方向与尺度共同制造张力。",
+      "text_evidence": "截图发布区可见合集标题“世间枷锁本是梦”；可能是系列标题，不能确定该帧与完整文本一一对应。"
+    },
+    {
+      "id": "I06",
+      "file": "Screenshot_20261102_122228.jpg",
+      "source": "user-provided reference image",
+      "sha256": "9c3076a3e456aea60996e718d70e600e13352fb8731b267c362ee24293fd17e3",
+      "observation": "黑底橙金与深赭；低头人形头部附近密集弧线与左侧流动线相接，明暗极不均匀。",
+      "relation": "火焰般笔触构成主体又侵入周围，动作向内收束；不需要另加独立的火焰标志。",
+      "text_evidence": "截图发布区可见“烈烈业火，如如不动…”；有省略号，为截断的发布文字，不认定完整诗句及图文单帧一一对应。"
+    },
+    {
+      "id": "I07",
+      "file": "Screenshot_20261102_122231.jpg",
+      "source": "user-provided reference image",
+      "sha256": "449f6ddca75a583ccfa9ccfd291c8f0ce0423467206a1bb0c53840400b4aa8a4",
+      "observation": "横向蓝底中，白色人形与剑由同一组大笔触和细白线组成；上方轻盈、横线延伸。",
+      "relation": "主体、剑与流动云状笔触相连；一条横向力线稳定并贯穿画面。",
+      "text_evidence": "截图标题可见“也无风雨也无晴”，它是发布标题线索；搜索栏文字不视为图注。"
+    },
+    {
+      "id": "I08",
+      "file": "Screenshot_20261102_122235.jpg",
+      "source": "user-provided reference image",
+      "sha256": "fcc976663e581f24cd32658fe703a84c1ace4ce98d1f66cbfda34c3744ffd01d",
+      "observation": "同一发布序列中的另一帧；左侧弧形云状白笔，右向细长剑形，远处另有模糊竖形。",
+      "relation": "大笔触与细线共同承载朝向；主体和远方的形状存在距离，但身份无法断定。",
+      "text_evidence": "截图标题可见“也无风雨也无晴”，系列线索，不断言此帧的唯一对应原句。"
+    },
+    {
+      "id": "I09",
+      "file": "Screenshot_20261102_122238.jpg",
+      "source": "user-provided reference image",
+      "sha256": "aac028eaff419df1d92e51e744670eebf1aedec6d6921b786bdbad2e20cd6983",
+      "observation": "黑底低位小金色竖形及下方倒影；两侧细金线弯曲，底部横向线波展开。",
+      "relation": "中心静立、周围流动、下方映照共同构成动静关系；小主体不承担写实表演。",
+      "text_evidence": "截图标题可见“其动若水，其静若镜”；可信为发布标题，不能单凭截图保证其为完整原文。"
+    },
+    {
+      "id": "I10",
+      "file": "Screenshot_20261102_122248.jpg",
+      "source": "user-provided reference image",
+      "sha256": "d7675c331716e07479cfce0b309086d1def3a551d0b11dfff4e796ee88ecba78",
+      "observation": "金色头肩状主体占据画面，密集粗细线在头部交织并向外弯；近黑负空间。",
+      "relation": "同一笔触既形成主体，也形成覆盖主体的缠结，内部与外部的界限不稳。",
+      "text_evidence": "截图可见“解脱是我，沉沦是我，…”；发布文字截断，不补全。"
+    },
+    {
+      "id": "I11",
+      "file": "Screenshot_20261102_122253.jpg",
+      "source": "user-provided reference image",
+      "sha256": "e4acc63e9bf0b922067cb7cc5021368d6c94c59179fce1f314528e9bf19f0a3c",
+      "observation": "大面积黑场，下部赤褐纠缠线群中有细小红色立形及斜向亮线，轮廓不够清楚。",
+      "relation": "深色压力场与微小明亮形态形成尺度反差；具体人物、器具和题材不宜断言。",
+      "text_evidence": "截图未见可核实的图文对应；不把相邻截图标题套给它。"
+    },
+    {
+      "id": "U01",
+      "file": "user-paired-1793460721720.png",
+      "source": "user-provided reference image",
+      "sha256": "595afea377a65a37977fc9a971b2f9102ed37dfb91bbcccec256175929945a37",
+      "observation": "绿色密线背景中深色侧身形体，金色环线、局部黄形与内外游线交叠。",
+      "relation": "主体、内外场和环线共享带有刮擦感的线迹；黄形的身份不明。",
+      "text_evidence": "用户明确将这张附件与“因果不虚，地狱不假，天行健，破万法”对应；该图来自另一个文件夹，是补充配对，不是Desktop\\11内容。"
+    }
+  ]
+}

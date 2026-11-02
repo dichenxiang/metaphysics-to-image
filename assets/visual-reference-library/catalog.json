@@ -1,0 +1,401 @@
+{
+  "note": "人工视觉观察与主观归类；非模型训练集。每张图片可跨类匹配。",
+  "items": [
+    {
+      "id": "R01",
+      "file": "1793460670162.png",
+      "primary_category": "边界与留白",
+      "cluster": "疏空渐层与异质断面",
+      "observation": "细树、小鸟、低日轮与水平界面；左下是不规则透明色片、黑色结块及垂落细线。",
+      "emotions": [
+        "脆弱",
+        "悬置",
+        "自我边界"
+      ],
+      "transferable_feature": "平静、近乎无纹理的空域，与内部极其复杂的薄片状断面并置；复杂性被局限在一侧。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/边界与留白/1793460670162.png",
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "3503bc471dde698e79dbfd8fb65a0915ec27d49a6636547d63bd4777cdd371fd",
+      "style_profile": "references/image-profiles/R01.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R02",
+      "file": "1793460707685.png",
+      "primary_category": "暗场与张力",
+      "cluster": "虚实游移的灰阶动作笔触",
+      "observation": "黑底右侧灰白弧带，旋动核心贴右边，左侧近黑空域。",
+      "emotions": [
+        "困惑",
+        "吸引",
+        "失重"
+      ],
+      "transferable_feature": "宽灰拖痕与窄白擦痕在黑场中旋动；清楚的局部痕迹无法拼成稳定的整体实体。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/暗场与张力/1793460707685.png",
+      "size": [
+        1440,
+        810
+      ],
+      "sha256": "38e94786f72f5cbb1e9c81d49b5c36228a8d1e7040f25c9cc4bbc61b5141769b",
+      "style_profile": "references/image-profiles/R02.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R03",
+      "file": "1793460721720.png",
+      "primary_category": "线与人物",
+      "cluster": "全幅游线与局部金黄凝聚",
+      "observation": "深红褐人形轮廓、向右伸展的黑色发状线；金黄椭圆与胸前较小亮形体；小形体具体身份不确定。",
+      "emotions": [
+        "牵挂",
+        "自守",
+        "亲密"
+      ],
+      "transferable_feature": "背景和主体都被同一套游走线迹贯穿，金黄色局部与大范围绿色形成聚焦。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/线与人物/1793460721720.png",
+      "size": [
+        1440,
+        2036
+      ],
+      "sha256": "595afea377a65a37977fc9a971b2f9102ed37dfb91bbcccec256175929945a37",
+      "style_profile": "references/image-profiles/R03.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R04",
+      "file": "1793461857159.png",
+      "primary_category": "线与人物",
+      "cluster": "黑底金线与横向回旋",
+      "observation": "持剑人形以金线构成，左上剑形斜伸，右侧与上部有横向长回环。",
+      "emotions": [
+        "抗争",
+        "束缚",
+        "意志"
+      ],
+      "transferable_feature": "体积由密集金色长线累积而成，外侧长带与圆弧把局部形体扩成有方向的运动场。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/线与人物/1793461857159.png",
+      "size": [
+        1440,
+        810
+      ],
+      "sha256": "3ac86477473df1f266b94549e0f5536cd48fe541cb9b383b931a4ec08fc42ac1",
+      "style_profile": "references/image-profiles/R04.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R05",
+      "file": "1793461874111.png",
+      "primary_category": "线与人物",
+      "cluster": "黑白满幅复调线迹",
+      "observation": "多种圆团、环线、四角形与星状亮点；中部有较小人形轮廓，背景密布小白点。",
+      "emotions": [
+        "纷扰",
+        "被包围",
+        "孤独"
+      ],
+      "transferable_feature": "粗白环团、细线网络、尖角星形和亮点同时争夺注意力，中央小轮廓被复杂场包围。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/线与人物/1793461874111.png",
+      "size": [
+        1438,
+        2035
+      ],
+      "sha256": "ab68b4a62c9a3747d2ae4fee71bc54112b73516c50cdae434dad798bc34e483a",
+      "style_profile": "references/image-profiles/R05.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R06",
+      "file": "1793461893604.png",
+      "primary_category": "线与人物",
+      "cluster": "低照度蓝紫纤维与水平余痕",
+      "observation": "中央偏下蓝紫蜷坐人形轮廓，周围暗线向外游走，下方有反射状横向线域。",
+      "emotions": [
+        "内省",
+        "疲惫",
+        "静默"
+      ],
+      "transferable_feature": "大部分线迹压入黑暗，中央蓝紫色凝聚与底部横向痕迹建立安静的上下关系。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/线与人物/1793461893604.png",
+      "size": [
+        1440,
+        2027
+      ],
+      "sha256": "2d7b99cde9b65dd62fe42eb801d8e3657ff2593c305f634bea1a9e20a4c4cb1c",
+      "style_profile": "references/image-profiles/R06.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R07",
+      "file": "1793461933609.png",
+      "primary_category": "暗场与张力",
+      "cluster": "冷灰软焦与近距离遮蔽",
+      "observation": "右侧近景暗轮廓占据大半画面，左方有较远的手状或人形轮廓；背景亮域冷蓝，具体身份和动作不确定。",
+      "emotions": [
+        "不安",
+        "遥望",
+        "未知"
+      ],
+      "transferable_feature": "画面大结构可以辨认，局部身份却被软焦和巨大近景暗块遮住，紧张来自看不清。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/暗场与张力/1793461933609.png",
+      "size": [
+        1440,
+        1080
+      ],
+      "sha256": "3884ed80b8f358650a555b6f43c61c7b872fd87fc71ee90f643e4910654cbb74",
+      "style_profile": "references/image-profiles/R07.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R08",
+      "file": "1793461942445.png",
+      "primary_category": "自然与瞬息",
+      "cluster": "湿润硬表面与细粒散布",
+      "observation": "俯视台阶、深灰铺地、顶部斜伸枝条与粉花，大量白粉小瓣落在表面。",
+      "emotions": [
+        "流逝",
+        "静谧",
+        "余韵"
+      ],
+      "transferable_feature": "规则台阶与石面肌理提供稳定几何，花瓣和枝条以细碎不规则性打破秩序。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/自然与瞬息/1793461942445.png",
+      "size": [
+        1439,
+        2156
+      ],
+      "sha256": "d22fdf9564ba4193325aba1768e1dde39a30776c3328abe12a741e6c3f093032",
+      "style_profile": "references/image-profiles/R08.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R09",
+      "file": "1793461960703.png",
+      "primary_category": "自然与瞬息",
+      "cluster": "暗底繁彩与悬粒景深",
+      "observation": "密集多色花朵、绿色茎叶、上部暗空及全幅白色小点；近处花朵更大且部分失焦。",
+      "emotions": [
+        "繁盛",
+        "短暂",
+        "热烈"
+      ],
+      "transferable_feature": "高彩度的多尺度形体从下方拥上来，黑暗上半部又被小亮点填充，呈现浓密而非空灵。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/自然与瞬息/1793461960703.png",
+      "size": [
+        1440,
+        1155
+      ],
+      "sha256": "b10e5d3ff0779757fb62b9981343f9b94d947912a3a8c90513b0f8f1d4323f8d",
+      "style_profile": "references/image-profiles/R09.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R10",
+      "file": "1793461965916.png",
+      "primary_category": "暗场与张力",
+      "cluster": "重复透视与半透明时间叠层",
+      "observation": "建筑内厅、上方冷白竖条阵列、层层台阶与许多大小不同的人影。",
+      "emotions": [
+        "群体",
+        "渺小",
+        "异化"
+      ],
+      "transferable_feature": "同一类建筑模块与人影被不断重复、错位和透明覆盖，几何空间因时间痕迹变得不稳定。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/暗场与张力/1793461965916.png",
+      "size": [
+        1438,
+        1917
+      ],
+      "sha256": "02e6d26b756e23ec2cf6fda09e6832c752ba5daee7dde0636c21c41d9f0cb68e",
+      "style_profile": "references/image-profiles/R10.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R11",
+      "file": "1793462001205.png",
+      "primary_category": "暗场与张力",
+      "cluster": "限色海报与尖锐前景",
+      "observation": "仰视人像、遮住眼部的白亮带、头上白色环、前方黑色带刺线和细图形。",
+      "emotions": [
+        "压迫",
+        "痛感",
+        "反抗"
+      ],
+      "transferable_feature": "大红底、黑色斜切线网、少量刺白亮点与中央深色体块形成紧迫的图形冲突。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/暗场与张力/1793462001205.png",
+      "size": [
+        1440,
+        810
+      ],
+      "sha256": "733579bd72c9bd95764be345f2f4ea7701540b12b2d0f75470ea7bdd29594d5d",
+      "style_profile": "references/image-profiles/R11.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R12",
+      "file": "1793462035362.png",
+      "primary_category": "自然与瞬息",
+      "cluster": "暖侧光的浅色近景与清空背景",
+      "observation": "近处浅粉花朵与花蕊，上方深蓝背景、少数花瓣及小型日文字样。",
+      "emotions": [
+        "轻盈",
+        "短暂",
+        "明朗"
+      ],
+      "transferable_feature": "细薄柔软的近景体积在暖光中有清楚触感，上方蓝色空域让它显得明朗而轻。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/自然与瞬息/1793462035362.png",
+      "size": [
+        1440,
+        810
+      ],
+      "sha256": "2cb77c6f430a6da94f53ee37e79324118ac806f777efbda9241ac168824f7a9d",
+      "style_profile": "references/image-profiles/R12.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R13",
+      "file": "1793462046928.png",
+      "primary_category": "边界与留白",
+      "cluster": "红白硬边碎片与透视穿行",
+      "observation": "红白带状碎片、白色字形和框状物，中央较小黑红球体；文字内容不是分析依据。",
+      "emotions": [
+        "紊乱",
+        "速度",
+        "集中"
+      ],
+      "transferable_feature": "大批锐角带状形体和字形沿深透视分布，中央暗红球提供稳点，运动来自尺度骤变。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/边界与留白/1793462046928.png",
+      "size": [
+        1440,
+        813
+      ],
+      "sha256": "e4528f65b9d33bf5e559e30998a59ecc0e4ab4fa2a3dc2518da63c79c82ca5de",
+      "style_profile": "references/image-profiles/R13.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R14",
+      "file": "1793462053931.png",
+      "primary_category": "自然与瞬息",
+      "cluster": "逆光实景与前景半透明纹层",
+      "observation": "仰向树丛、蓝天暖云、低位太阳；下半大片红橙弧形细纹，具体是网、反射或后期未知。",
+      "emotions": [
+        "温暖",
+        "转瞬",
+        "细察"
+      ],
+      "transferable_feature": "树叶天空仍可辨认，而近处红橙弧状细纹让观看像隔着一层可感知的介质。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/自然与瞬息/1793462053931.png",
+      "size": [
+        1440,
+        1920
+      ],
+      "sha256": "7bd54425b97bee87eb9b9b0334a0cc838c152c7c36afce2fdd384ba89102b89e",
+      "style_profile": "references/image-profiles/R14.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R15",
+      "file": "1793462057595.png",
+      "primary_category": "远景与行旅",
+      "cluster": "单色层峦与硬剪影",
+      "observation": "蓝色层叠山峰、雾谷，前景岩石与持剑戴笠人物的黑色轮廓。",
+      "emotions": [
+        "孤行",
+        "辽阔",
+        "决意"
+      ],
+      "transferable_feature": "同色系远景不断降低对比和细节，前景则压成近黑硬形，让辽阔与稳定锚点并存。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/远景与行旅/1793462057595.png",
+      "size": [
+        1439,
+        2159
+      ],
+      "sha256": "b5f4af8584aef605f569c31237ed0ba1fe9d7bf2b71dc69a0f2752b478c87da9",
+      "style_profile": "references/image-profiles/R15.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R16",
+      "file": "1793462081785.png",
+      "primary_category": "记忆与拼贴",
+      "cluster": "暖色柔光成像与外层观看框",
+      "observation": "横向动画般画面被旋转放入竖图，内有橙衣旅行者、行装、草地、建筑和暖云；外层圆角暗框。",
+      "emotions": [
+        "怀念",
+        "离别",
+        "温柔"
+      ],
+      "transferable_feature": "内层是有体积的动画式环境和柔光人物；外层有圆角黑框、旋转与屏幕观看痕迹，两者必须分开。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/记忆与拼贴/1793462081785.png",
+      "size": [
+        1689,
+        2918
+      ],
+      "sha256": "8159491ca88e4d13afa22e77082452d0a08c40365b5839364a7a2c706da43519",
+      "style_profile": "references/image-profiles/R16.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R17",
+      "file": "1793462092111.png",
+      "primary_category": "暗场与张力",
+      "cluster": "暗空中的断续光迹",
+      "observation": "右上偏中的烟火样放射轨迹，灰烟与零散亮点，其余多为黑色。",
+      "emotions": [
+        "瞬息",
+        "消逝",
+        "短促"
+      ],
+      "transferable_feature": "少量爆散轨迹和微弱烟影在巨大黑场里短暂留下痕迹，视觉力量来自稀疏和衰减。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/暗场与张力/1793462092111.png",
+      "size": [
+        1440,
+        810
+      ],
+      "sha256": "f69a03533e7fb6b6817779ea63ff36c770e850d9377c79f59765509ac4b42145",
+      "style_profile": "references/image-profiles/R17.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    },
+    {
+      "id": "R18",
+      "file": "1793462104873.png",
+      "primary_category": "记忆与拼贴",
+      "cluster": "硬边照片叠置与暗调日常",
+      "observation": "室内咖啡馆大框、建筑与室外中框、中心饮品近照，底部局部手臂织物和背景植被；含少量字样。",
+      "emotions": [
+        "日常",
+        "记忆",
+        "片段"
+      ],
+      "transferable_feature": "多张独立影像靠硬边遮挡形成层次，照片身份保持完整，整体暗调把不同场景统一。",
+      "source": "user-provided reference image",
+      "library_copy": "assets/visual-reference-library/记忆与拼贴/1793462104873.png",
+      "size": [
+        1440,
+        810
+      ],
+      "sha256": "1eb0e408bf73da3c9034cf693876e2e7cc5c64c2678b9bc0cb659855ddfa32ec",
+      "style_profile": "references/image-profiles/R18.md",
+      "legacy_emotion_tags_note": "旧情绪标签仅供查找，匹配以新风格档案的视觉证据、感知解释和适用边界为准。"
+    }
+  ]
+}
